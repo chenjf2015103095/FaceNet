@@ -1,0 +1,6 @@
+2019-06-14 13:18:37,948 - INFO: request =[request_id:1560489517.95_89997, ip:127.0.0.1, url:/, method:GET]
+2019-06-14 13:18:37,994 - INFO: request =[request_id:1560489517.99_84013, ip:127.0.0.1, url:/favicon.ico, method:GET]
+2019-06-14 13:18:43,697 - INFO: request =[request_id:1560489523.7_42078, ip:127.0.0.1, url:/user/sign_in, method:GET]
+2019-06-14 13:18:43,825 - INFO: request =[request_id:1560489523.82_19633, ip:127.0.0.1, url:/favicon.ico, method:GET]
+2019-06-14 13:20:02,772 - INFO: request =[request_id:1560489602.77_47509, ip:127.0.0.1, url:/test, method:GET]
+2019-06-14 13:20:02,789 - INFO: request =[request_id:1560489602.79_35094, ip:127.0.0.1, url:/favicon.ico, method:GET]
